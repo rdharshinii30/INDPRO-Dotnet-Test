@@ -1,7 +1,7 @@
 Task Manager - README
 How to Set Up and Run the Project
 1. Clone the repository:
- git clone [https://github.com/your-username/task-manager.git](https://github.com/rdharshinii30/INDPRO-Dotnet-Test)
+ git clone https://github.com/rdharshinii30/INDPRO-Dotnet-Test
  cd task-manager
 2. Update the Database Connection String in appsettings.json.
 3. Apply Migrations and Create Database:
